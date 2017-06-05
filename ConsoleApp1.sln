@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxingVSUnboxing", "BoxingV
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresAritmeticos", "OperadoresAritmeticos\OperadoresAritmeticos.csproj", "{C90409A3-E25B-43DE-B938-1495D311151A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConhecendoDebug", "ConhecendoDebug\ConhecendoDebug.csproj", "{1D44A878-4C47-4452-A197-31D19FA87EF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C90409A3-E25B-43DE-B938-1495D311151A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C90409A3-E25B-43DE-B938-1495D311151A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C90409A3-E25B-43DE-B938-1495D311151A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D44A878-4C47-4452-A197-31D19FA87EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D44A878-4C47-4452-A197-31D19FA87EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D44A878-4C47-4452-A197-31D19FA87EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D44A878-4C47-4452-A197-31D19FA87EF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
