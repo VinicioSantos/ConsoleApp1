@@ -54,9 +54,13 @@ namespace OperadoresAritmeticos
             txbResultado.Text = Dividir(numero1,numero2).ToString();
         }
 
-        int Somar(int numero1, int numero2)
+        int Somar(params int[] numeros)
         {
-            int resultado = numero1 + numero2;
+            int resultado = 0;
+            foreach(int numero in numeros)
+            {
+                resultado += numero;
+            }
             return resultado;
         }
 
